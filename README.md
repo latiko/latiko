@@ -15,5 +15,5 @@ I am currently working on: Building cybersecurity tools, malware analysis projec
 
 ---
 [![](https://visitcount.itsvg.in/api?id=latiko&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3361071" style='border:none;'></iframe>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
